@@ -1,2 +1,3 @@
 # Four-level-atomic-system
-This code solves the master equation for a four level atomic system illuminated by three different laser fields.
+This repository is dedicated for simulating a four level atomic system which is illuminated by three different lasers. 
+The notebook defines the Hamiltonian and the decay operators, then solves the master equation in steady state and plots the spectrum.
